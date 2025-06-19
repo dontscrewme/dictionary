@@ -23,7 +23,7 @@ void dictionary_set_error_callback(int (*errback)(const char *, ...))
   }
 }
 
-static unsigned dictionary_hash(const char *key)
+unsigned dictionary_hash(const char *key)
 {
 
   unsigned int hash = 0;
