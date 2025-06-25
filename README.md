@@ -1,1 +1,1 @@
-Mimicking https://github.com/ndevilla/iniparser, but I'm using a bucket-list implementation.
+Mimick https://github.com/ndevilla/iniparser, but I use a bucket-list implementation.
